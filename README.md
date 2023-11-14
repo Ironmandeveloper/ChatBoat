@@ -59,3 +59,8 @@ ng serve
 ## Contributing
 
 We encourage contributions to enhance the chatbot's development. Contribute by adding new training data, improving the code, or introducing new features. To contribute, create a pull request with your proposed changes.
+
+## Screenshot
+
+![chatbot](https://github.com/Ironmandeveloper/ChatBoat/assets/139443148/ec37cf17-82be-40f9-b09f-678b0cb9da56)
+

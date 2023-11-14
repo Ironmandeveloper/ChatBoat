@@ -11,6 +11,7 @@ This repository contains a chatbot that can be used for a variety of purposes, s
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Screenshot](#screenshot)
 
 
 ## Getting Started

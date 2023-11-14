@@ -11,7 +11,7 @@ This repository contains a chatbot that can be used for a variety of purposes, s
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Screenshot](#screenshot)
+- [Screenshot](#screenshots)
 
 
 ## Getting Started
@@ -61,7 +61,19 @@ ng serve
 
 We encourage contributions to enhance the chatbot's development. Contribute by adding new training data, improving the code, or introducing new features. To contribute, create a pull request with your proposed changes.
 
-## Screenshot
+## Screenshots
 
 ![chatbot](https://github.com/Ironmandeveloper/ChatBoat/assets/139443148/ec37cf17-82be-40f9-b09f-678b0cb9da56)
+
+
+![image (11)](https://github.com/Ironmandeveloper/ChatBoat/assets/139443148/20b02abe-26ff-43d4-b4bd-f8560f18acda)
+
+
+![image (12)](https://github.com/Ironmandeveloper/ChatBoat/assets/139443148/42806e80-f4c1-446f-8fb6-3d5f7dee870a)
+
+
+![image (13)](https://github.com/Ironmandeveloper/ChatBoat/assets/139443148/40c88523-ae0e-43f6-9df6-fbb3300a333e)
+
+
+![image (14)](https://github.com/Ironmandeveloper/ChatBoat/assets/139443148/b56e8b97-bfc7-4fce-9280-19f7e4beb031)
 
